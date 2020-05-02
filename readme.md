@@ -1,12 +1,12 @@
 # My name is Chang Tsz Hin
-_As a developer, I am **weak** at coding_
+_I am studying **CSCI3251**_
 * [X] Code
   * [X] C
   * [X] Java
-  * [] HTML
-  * [] Python
-  * [] C++
-  * [] CSS
+  * [ ] HTML
+  * [ ] Python
+  * [ ] C++
+  * [ ] CSS
   
 **No experience in github**
 
